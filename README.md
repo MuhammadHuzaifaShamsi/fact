@@ -1,4 +1,8 @@
 # first heading
 ## second heading
 
-** Bold with stars on both sides **
+**Bold with stars on both sides**
+
+Normal text
+
+_italic text_
