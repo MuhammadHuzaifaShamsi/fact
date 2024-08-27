@@ -9,6 +9,8 @@ _italic text_
 
 Oxygen formula is O<sub>2</sub>
 
+2<sup>2</sup> = 4
+
 ~~OOPS I made an error~~
 
 
